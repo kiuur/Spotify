@@ -1,0 +1,20 @@
+{
+  "name": "spotify-profile",
+  "version": "1.0.0",
+  "description": "A simple Next.js profile page with Spotify embed",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "next": "latest",
+    "react": "latest",
+    "react-dom": "latest"
+  },
+  "devDependencies": {},
+  "keywords": ["nextjs", "spotify", "profile", "music"],
+  "author": "Michael",
+  "license": "MIT"
+}
